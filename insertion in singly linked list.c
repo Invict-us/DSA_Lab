@@ -144,7 +144,7 @@ int main()
 {
     int choice;
 
-    printf("Your Hruthya C V\t1WA25CS097\t3-11-2026\n");
+    printf("Hruthya C V\t1WA25CS097\t3-11-2026\n");
 
     while (1)
     {
